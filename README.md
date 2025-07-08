@@ -9,15 +9,4 @@ The project uses core object-oriented programming (OOP) concepts like:
   Polymorphism – each book type has its own way of handling purchase
   Interfaces – used to define mailing and shipping behaviors
 
-![image](https://github.com/user-attachments/assets/84a74c54-cd3f-461a-9b46-5531572eb454)
-
---- Purchasing Book ---
-Shipping 2 copies of MATH to Alex
-
---- Removing Books Published Before 2010 ---
-
---- Current Inventory ---
-- Physics (2021)
-- Biology (2020)
-- MATH (2024)
-
+![image](https://github.com/user-attachments/assets/9abd9f63-df27-4c08-b9c1-0e0c3055782f)
